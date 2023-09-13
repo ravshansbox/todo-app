@@ -1,0 +1,19 @@
+{
+  "name": "@todo-app/fe",
+  "private": true,
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "@tanstack/react-query": "^4.35.3",
+    "@trpc/client": "^10.38.2",
+    "@trpc/react-query": "^10.38.2",
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9"
+  }
+}
